@@ -1,3 +1,4 @@
 # portfolio
 website portfolio
-## Hallo ini Adalah pengetesan untuk test-test saja bro
+
+web portfolio untuk mendeskripsikan tentang saya dan hasil karya apa saja yang udah dibuat
